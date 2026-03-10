@@ -28,7 +28,7 @@ düzenleyebilir ve görsel bir tablo üzerinde görüntüleyebilir.
 Projeye ait ekran görüntüsünü aşağıdaki şekilde ekleyebilirsiniz:
 
 ``` md
-![Proje Görseli](./screenshots/app.png)
+![Proje Görseli](.screenshot.png)
 ```
 
 ------------------------------------------------------------------------
