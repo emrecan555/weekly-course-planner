@@ -48,10 +48,10 @@ Projeyi bilgisayarında çalıştırmak için:
 
 ``` bash
 # Projeyi klonla
-git clone https://github.com/emrecan555/ders-programi.git
+git clone https://github.com/emrecan555/weekly-course-planner.git
 
 # Proje klasörüne gir
-cd ders-programi
+cd weekly-course-planner
 
 # Bağımlılıkları yükle
 npm install
@@ -59,56 +59,6 @@ npm install
 # Geliştirme sunucusunu başlat
 npm run dev
 ```
-
-------------------------------------------------------------------------
-
-## 🌐 Netlify Deploy
-
-Projeyi canlıya almak için:
-
-1.  GitHub'a push et\
-2.  Netlify hesabına giriş yap\
-3.  **New Site From Git** seç\
-4.  GitHub reposunu bağla
-
-### Build Ayarları
-
-``` bash
-Build Command: npm run build
-Publish Directory: dist
-```
-
-Alternatif olarak Netlify CLI:
-
-``` bash
-npm install -g netlify-cli
-netlify login
-netlify deploy --prod
-```
-
-------------------------------------------------------------------------
-
-## 📁 Proje Yapısı
-
-    src/
-    ├── Components/
-    │   ├── CourseForm.jsx
-    │   ├── CourseList.jsx
-    │   ├── EditCourseModal.jsx
-    │   └── WeeklySchedule.jsx
-    │
-    ├── Pages/
-    │   └── Home.jsx
-    │
-    ├── Interfaces/
-    │   └── createCourse.js
-    │
-    ├── data/
-    │   └── courses.json
-    │
-    ├── App.jsx
-    ├── main.jsx
-    └── index.css
 
 ------------------------------------------------------------------------
 
