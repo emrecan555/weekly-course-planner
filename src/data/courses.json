@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "courseName": "Veri Tabanı",
+    "day": "Pazartesi",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "classroom": "B201",
+    "instructor": "Dr. Ayşe Yılmaz",
+    "color": "bg-blue-500"
+  },
+  {
+    "id": 2,
+    "courseName": "Web Geliştirme",
+    "day": "Salı",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "classroom": "C104",
+    "instructor": "Dr. Mehmet Kaya",
+    "color": "bg-green-500"
+  },
+  {
+    "id": 3,
+    "courseName": "Yapay Zeka",
+    "day": "Çarşamba",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "classroom": "A303",
+    "instructor": "Dr. Elif Demir",
+    "color": "bg-purple-500"
+  }
+]
