@@ -25,11 +25,9 @@ düzenleyebilir ve görsel bir tablo üzerinde görüntüleyebilir.
 
 ## 🖥️ Ekran Görüntüsü
 
-Projeye ait ekran görüntüsünü aşağıdaki şekilde ekleyebilirsiniz:
-
-``` md
-![Proje Görseli](./screenshot.png)
-```
+<p align="center">
+  <img src="./screenshot.PNG" width="900">
+</p>
 
 ------------------------------------------------------------------------
 
