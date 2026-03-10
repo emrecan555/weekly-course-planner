@@ -28,6 +28,9 @@ düzenleyebilir ve görsel bir tablo üzerinde görüntüleyebilir.
 <p align="center">
   <img src="./screenshot.PNG" width="900">
 </p>
+<p align="center">
+  <img src="./screenshot_1.PNG" width="900">
+</p>
 ------------------------------------------------------------------------
 
 ## 🧱 Kullanılan Teknolojiler
